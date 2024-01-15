@@ -25,3 +25,4 @@ __________________________________________________
 ### Tech stack
 
 ASP.NET, Azure, C#, CSS, Git, HTML, JavaScript, Microsoft SQL Server, Visual studio, Windows OS
+
