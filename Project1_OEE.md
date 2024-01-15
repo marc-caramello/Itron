@@ -1,7 +1,7 @@
 # OEE
 
 ### The problem that needed to be solved
-The assembly line would often go down for a variety of different reasons. The previous method to keep track of these downtimes was a clipboard & a piece of paper. This was ineffective for a variety of different reasons\
+The assembly line would often go down. The previous method to keep track of these downtimes was a clipboard & a piece of paper. This was ineffective for a variety of different reasons:\
 •They kept losing the physical pieces of paper\
 •It was impossible to do any data analysis with it
 __________________________________________________
