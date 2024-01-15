@@ -1,5 +1,5 @@
 # Itron
-Here is a description of the 4 projects that I completed during my internship at Itron.
+These are the 4 projects that I completed during my internship at Itron. Click any of the links below to learn more about each project.
 
 [Project 1, OEE](https://github.com/marc-caramello/Itron/blob/master/Project1_OEE.md)
 
