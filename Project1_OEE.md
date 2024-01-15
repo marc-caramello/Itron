@@ -1,4 +1,5 @@
 # OEE
+__________________________________________________
 
 ### The problem that needed to be solved
 The assembly line would often go down. The previous method to keep track of these downtimes was a clipboard & a piece of paper. This was ineffective for a variety of different reasons:\
@@ -8,16 +9,13 @@ __________________________________________________
 
 ### The task that was assigned to me
 My manager asked me to create a:\
-•Database system in SQL to keep track of the assembly line downtime\
-•Front-end webpage that prompt the assembly line worker to input the reason why the assembly line went down\
-•Back-end webpage that connected the front-end webpage with the database system
+1. Database system in SQL to keep track of the assembly line downtime\
+2. Front-end webpage that prompt the assembly line worker to input the reason why the assembly line went down\
+3. Back-end webpage that connected the front-end webpage with the database system
 __________________________________________________
 
 ### The actions that I successfully completed
-I created:\
-•Over 5 SQL tables, using: Microsoft SQL Server\
-•The front-end webpage, using: CSS, HTML, Javascript\
-•The back-end webpage, using: ASP.NET, Azure, C#, CSS, Git, HTML, Visual studio, Windows OS
+I completed everything that is listed in the above section
 __________________________________________________
 
 ### The result of my project
@@ -26,3 +24,8 @@ __________________________________________________
 •The managers can now figure out the most common reasons for downtown and make specific changes to prevent them from happening again\
 •My SQL tables helped another employee create a complex data analysis tool using PowerBI\
 •Right now as we speak, my front-end webpage is open on multiple different assembly lines
+__________________________________________________
+
+### Tech stack
+
+ASP.NET, Azure, C#, CSS, Git, HTML, JavaScript, Microsoft SQL Server, Visual studio, Windows OS
