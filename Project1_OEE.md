@@ -7,7 +7,7 @@ The assembly line would often go down. The previous method to keep track of thes
 __________________________________________________
 
 ### The task that was assigned to me
-My manager asked me to create a:\
+My manager asked me to create a:
 1. Database system in SQL to keep track of the assembly line downtime\
 2. Front-end webpage that prompt the assembly line worker to input the reason why the assembly line went down\
 3. Back-end webpage that connected the front-end webpage with the database system
