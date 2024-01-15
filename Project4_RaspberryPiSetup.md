@@ -22,7 +22,7 @@ __________________________________________________
 
 ### The result of my project
 •Every time someone needs to set up a RaspberryPi, all they have to do is follow the steps written in my modified guide.\
-•I successfully reduced the installation time by over 1 hour because I modified the script
+•I successfully reduced the installation time by over 1 hour because I modified the script.
 __________________________________________________
 
 ### Tech stack
