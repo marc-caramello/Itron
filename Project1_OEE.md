@@ -1,5 +1,4 @@
 # OEE
-__________________________________________________
 
 ### The problem that needed to be solved
 The assembly line would often go down. The previous method to keep track of these downtimes was a clipboard & a piece of paper. This was ineffective for a variety of different reasons:\
