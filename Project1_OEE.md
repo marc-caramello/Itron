@@ -5,17 +5,20 @@ The assembly line would often go down for a variety of different reasons. The pr
   •They kept losing the physical pieces of paper\
   •It was impossible to do any data analysis with it
 
+
 ### The task that was assigned to me
 My manager asked me to create a:\
   •Database system in SQL to keep track of the assembly line downtime\
   •Front-end webpage that prompt the assembly line worker to input the reason why the assembly line went down\
   •Back-end webpage that connected the front-end webpage with the database system
 
+
 ### The actions that I successfully completed
 I created:\
   •Over 5 SQL tables, using: Microsoft SQL Server\
   •The front-end webpage, using: CSS, HTML, Javascript\
   •The back-end webpage, using: ASP.NET, Azure, C#, CSS, Git, HTML, Visual studio, Windows OS
+
 
 ### The result of my project
   •My project helped reduce assembly line downtime by 25%\
