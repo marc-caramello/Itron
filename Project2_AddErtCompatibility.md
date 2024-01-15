@@ -6,7 +6,7 @@ Every time Debbie (the production scheduler) had to schedule production with an 
 __________________________________________________
 
 ### The task that was assigned to me
-My manager asked me to create a webpage that would do the following:\
+My manager asked me to create a webpage that would do the following:
 1. Ask Debbie to input the: Ert Order Number, Ert Line Number, and MSD\
 2. Run a SQL query that would retrieve the order information & files from the Itron location in Waseca, MN\
 3. Unencrypt the files\
@@ -18,8 +18,8 @@ I completed everything that is listed in the above section
 __________________________________________________
 
 ### The result of my project
-*If Debbie encounters the error from before, all she has to do is: input the information on my webpage, and click submit.\
-*After she clicks submit, the error completely disappears, and it saves every a lot of time.
+•If Debbie encounters the error from before, all she has to do is: input the information on my webpage, and click submit.\
+•After she clicks submit, the error completely disappears, and it saves every a lot of time.
 __________________________________________________
 
 ### Tech stack
