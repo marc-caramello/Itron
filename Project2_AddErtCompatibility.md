@@ -18,7 +18,7 @@ __________________________________________________
 
 ### The result of my project
 •If Debbie encounters the error from before, all she has to do is: input the information on my webpage, and click submit.\
-•After she clicks submit, the error completely disappears, and it saves every a lot of time.
+•After she clicks submit, the error completely disappears, and it saves everyone a lot of time.
 __________________________________________________
 
 ### Tech stack
