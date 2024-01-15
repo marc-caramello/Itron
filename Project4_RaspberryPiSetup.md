@@ -1,7 +1,7 @@
 # RaspberryPiSetup
 
 ### The problem that needed to be solved
-My manager wanted me to set up a few raspberry pis, which would display important information to the assembly line workers.\
+My manager wanted me to set up a few raspberry pis, which would display important information to the assembly line workers.
 
 However, while I was doing this, I noticed a few different problems:
 1. The guide that I was following (written in Microsoft word) was very confusing
